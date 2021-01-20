@@ -1,1 +1,1 @@
-# cs104-git-lab1
+# cs104-git-practice
